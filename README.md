@@ -1,4 +1,4 @@
-# LiquidSphere ( Liquid Crystal ) React Three Fiber Version
+# LiquidSphere ( Codepen: Liquid Crystal ) React Three Fiber Version
 
 ## React Three Fiber Version Demo by @artvelog
 
